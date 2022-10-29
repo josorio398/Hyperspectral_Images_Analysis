@@ -4,5 +4,5 @@ A hyperspectral image is a large dataset in which each pixel corresponds to a sp
 
 https://datalore.jetbrains.com/view/notebook/c8gUqPjlh8gihGI6RB5cWn
 
-<center><img src="https://github.com/josorio398/Hyperspectral_Images_Analysis/blob/main/images_png/hojas.png?raw=true" alt="imafinal" border="0" width =1000"></center>
+<center><img src="https://github.com/josorio398/Hyperspectral_Images_Analysis/blob/main/datalore.png?raw=true" alt="imafinal" border="0" width =1000"></center>
 
